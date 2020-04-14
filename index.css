@@ -1,0 +1,9 @@
+.cover {
+    height: 100vh;
+}
+
+.cover_main {
+    background: hsl(0, 0%, 50%)  url(img/main-photo.jpg) center;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
